@@ -47,6 +47,8 @@ contract MyToken {
 
 To compile the code, click the "Solidity Compiler" tab in the left-hand sidebar. Next, click the "Ara Jean.sol" button, then click compile code and wait for the green check to appear in the "Solidity Compiler" logo. After that, using the "Deploy & Run Transactions" tab in the left-hand sidebar, you can deploy the contract after the code has been compiled. From the drop-down menu, choose the "Ara Jean.sol" contract, and then press the "Deploy" button. When the contract is ready for use, you can interact with it by expanding the Deployed Contracts area below the address. Simply clicking the arrow button on the left side of your deployed contract will expand it. You can now interact with the contract you generated. To set up the changes, simply enter the necessary information, such as the address (just copy the account address), the token's value, and the number of tokens you wish to mint, burn, and then transact. Just select "balances" to check it.
 
+```
+
 ## Authors
 
 Saez, Ara Jean A.
